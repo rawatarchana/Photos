@@ -1,0 +1,83 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.div-form{
+    width: 60% !important;
+    height: 50px !important;
+}
+.form-control{
+    width: 500px !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.g-icon{
+    width: 100px;
+    cursor: pointer;
+}
+.btn{
+   box-shadow: none !important;
+   border-radius: 20px !important;
+}
+.form{
+    background-color: rgb(237, 238, 240);
+    border-radius: 7px !important;
+}
+.add{
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    box-shadow: none !important;
+    border: none !important;
+    color: white;
+    font-weight: 600;
+}
+.fa-plus{
+    color: white !important;
+}
+.container-fluid {
+    border-bottom: 1px solid rgb(0,0,0,0.2);
+}
+.nav-items{
+    width: 220px;
+    overflow-y: scroll;
+    color: rgb(88, 88, 88);
+}
+.nav-items i{
+    cursor: pointer;
+}
+.nav-items a{
+    color:rgb(88, 88, 88) ;
+}
+.row>*{
+    padding-left: 0 !important;
+}
+.data{
+    border: 2px solid;
+    border-radius: 7px;
+    border-color:rgb(0, 0, 0,0.2) ;
+   
+}
+.text{
+    font-size: 13px;
+    
+    text-align: center;
+}
+ii:nth-of-type(4) button{
+        border: 1px solid;
+}
+
+.t-btn button{
+    border-radius: 4px !important;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-width: 1px;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(0, 110, 255, 0.842);
+
+}
+.t-btn button:hover{
+    color: rgba(0, 110, 255, 0.842);
+}
