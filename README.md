@@ -1,2 +1,7 @@
-# photos
-It is a clone website of google photos , creating using html and css.
+# Project Name
+
+Create google photos home page clone using HTML and CSS.
+
+## Website Link
+
+Visit our website [here](https://github.com/rawatarchana/Photos/deployments/github-pages).
