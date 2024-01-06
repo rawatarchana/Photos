@@ -1,5 +1,4 @@
-# Project Name
-
+# Google-Photos-HomePage-clone
 Create google photos home page clone using HTML and CSS.
 
 ## Website Link
